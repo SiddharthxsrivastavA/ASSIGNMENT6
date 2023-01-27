@@ -1,5 +1,5 @@
 def palindrome(string):
-    if string[::-1] == string:
+    if string[ : :-1] == string[ : :-1]
         return True
     else :
         return  False
